@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **showrav.biswas1@gmail.com**
 - <a href="https://wa.me/01635183372" target="_blank">
-    <h3 align="left">Connect with me:</h3>
+    <span align="left">Connect with me:</span>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
