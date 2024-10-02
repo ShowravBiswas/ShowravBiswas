@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning ** | PHP | Laravel | Vue.js | React.js | MERN | GraphQL | Data Science, AI & DevOps**
 
-- 👨‍💻 All of my projects are available at [Your Portfolio Link]
+- 💬 Ask me about **| PHP | Laravel | Vue.js | React.js | MERN | GraphQL | Data Science, AI & DevOps**
 
-- 📝 I regularly write articles on [Your Blog Link]
-
-- 💬 Ask me about **[Topics you are knowledgeable in]**
-
-- 📫 How to reach me **[Your Email Address]**
+- 📫 How to reach me **showrav.biswas1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
