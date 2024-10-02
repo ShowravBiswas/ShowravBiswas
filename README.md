@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="[YourUsername]" /> </p>
 
-- 🌱 I’m currently learning **[Technologies you're learning]**
+- 🌱 I’m currently learning ** | PHP | Laravel | Vue.js | React.js | MERN | GraphQL | Data Science, AI & DevOps**
 
 - 👨‍💻 All of my projects are available at [Your Portfolio Link]
 
