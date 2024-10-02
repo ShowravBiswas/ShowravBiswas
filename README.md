@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate software developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Showrav Biswas</h1>
+<h3 align="center">A passionate software developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="[YourUsername]" /> </p>
 
