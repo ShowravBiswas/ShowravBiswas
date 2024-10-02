@@ -12,9 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/showrav-biswas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[YourLinkedIn]" height="30" width="40" /></a>
-<a href="https://fb.com/[YourFacebook]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="[YourFacebook]" height="30" width="40" /></a>
-<a href="https://instagram.com/[YourInstagram]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="[YourInstagram]" height="30" width="40" /></a>
-<a href="https://twitter.com/[YourTwitter]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="[YourTwitter]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
