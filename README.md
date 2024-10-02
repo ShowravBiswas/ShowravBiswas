@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/showrav-biswas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[YourLinkedIn]" height="30" width="40" /></a>
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=ShowravBiswas&color=green)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
